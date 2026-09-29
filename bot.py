@@ -8,7 +8,7 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 SOURCE_CHANNEL = -1003458574167
 
 # जहाँ पोस्ट अपने आप कॉपी होगी
-TARGET_CHANNEL = -1002454087643
+TARGET_CHANNEL = -1003800444020
 
 app = FastAPI()
 
